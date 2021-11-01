@@ -17,7 +17,7 @@
 
 👤 **Ralph Brynard**
 
-* Twitter: [@DevopsPlen](https://twitter.com/DevopsPleb)
+* Twitter: [@DevopsPleb](https://twitter.com/DevopsPleb)
 * Github: [@RalphBrynard](https://github.com/RalphBrynard)
 * LinkedIn: [@ralphbrynard](https://linkedin.com/in/ralphbrynard)
 
