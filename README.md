@@ -4,8 +4,8 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/DevopsPlen" target="_blank">
-    <img alt="Twitter: DevopsPleb" src="https://img.shields.io/twitter/follow/DevopsPlen.svg?style=social" />
+  <a href="https://twitter.com/DevopsPleb" target="_blank">
+    <img alt="Twitter: DevopsPleb" src="https://img.shields.io/twitter/follow/DevopsPleb.svg?style=social" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 👤 **Ralph Brynard**
 
-* Twitter: [@DevopsPlen](https://twitter.com/DevopsPlen)
+* Twitter: [@DevopsPlen](https://twitter.com/DevopsPleb)
 * Github: [@RalphBrynard](https://github.com/RalphBrynard)
 * LinkedIn: [@ralphbrynard](https://linkedin.com/in/ralphbrynard)
 
